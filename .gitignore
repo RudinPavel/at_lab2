@@ -1,0 +1,12 @@
+# Ignore .idea folder
+/.idea
+
+# Ignore /out and /target folders
+/out
+/target
+
+# Ignore all .iml files
+*.iml
+
+# Ignore all .xml files
+*.xml
